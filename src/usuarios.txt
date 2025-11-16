@@ -1,0 +1,4 @@
+Administrador|admin|admin|Admin
+Bibliotecario|EzzF|1234|Enzo Feltrin
+Leitor|ordepie|4321|Pedro Henrique
+Leitor|miglike|5321|Miguel Henrique

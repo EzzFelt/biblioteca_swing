@@ -1,0 +1,5 @@
+1|Dom Casmurro|Machado de Assis|1899|true|
+2|O Cortiço|Aluísio Azevedo|1890|true|
+3|Grande Sertão: Veredas|Guimarães Rosa|1956|true|
+4|Capitães da Areia|Jorge Amado|1937|false|ordepie
+6|Chorume|Deyvin|2018|true|
